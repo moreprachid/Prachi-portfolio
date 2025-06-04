@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  color:  #2c3e50;
+}
+
+nav {
+  background-color: #1e1e2f;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+
+.section-card {
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  border-left: 6px solid #0d051a;
+nav a:hover {
+  color: #ffd700;
+}
+}
+
+/* Optional shape decoration */
+.section-shape {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  height: 100px;
+  clip-path: polygon(0 0, 100% 0, 100% 70%, 0% 100%);
+}
