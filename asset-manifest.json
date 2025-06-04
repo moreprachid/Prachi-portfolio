@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.618f222c.css",
-    "main.js": "/react-portfolio/static/js/main.12ec59b5.js",
-    "static/js/453.e89d46a7.chunk.js": "/react-portfolio/static/js/453.e89d46a7.chunk.js",
-    "index.html": "/react-portfolio/index.html",
-    "main.618f222c.css.map": "/react-portfolio/static/css/main.618f222c.css.map",
-    "main.12ec59b5.js.map": "/react-portfolio/static/js/main.12ec59b5.js.map",
-    "453.e89d46a7.chunk.js.map": "/react-portfolio/static/js/453.e89d46a7.chunk.js.map"
+    "main.css": "/Prachi-portfolio/static/css/main.618f222c.css",
+    "main.js": "/Prachi-portfolio/static/js/main.7d3015c7.js",
+    "static/js/453.4abcbfba.chunk.js": "/Prachi-portfolio/static/js/453.4abcbfba.chunk.js",
+    "index.html": "/Prachi-portfolio/index.html",
+    "main.618f222c.css.map": "/Prachi-portfolio/static/css/main.618f222c.css.map",
+    "main.7d3015c7.js.map": "/Prachi-portfolio/static/js/main.7d3015c7.js.map",
+    "453.4abcbfba.chunk.js.map": "/Prachi-portfolio/static/js/453.4abcbfba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.618f222c.css",
-    "static/js/main.12ec59b5.js"
+    "static/js/main.7d3015c7.js"
   ]
 }
