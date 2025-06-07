@@ -13,7 +13,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/Prachi-portfolio">
         <div>
           <nav style={{ padding: "20px", background: "rgba(13, 5, 26, 0.84)" }}>
             <Link to="/" style={{ margin: "20px" }}>
