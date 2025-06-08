@@ -12,7 +12,7 @@ function Home() {
   return (
     <div className="home">
       <h1 class="h1">Welcome to My Portfolio</h1>
-      <p class="p">I am a BSc IT student | Web Developer | Tech Enthusiast</p>
+      <p class="p">I am a BSc IT student | Web Developer | Tech Enthusiast | Solo traveller</p>
 
       <div className="home-buttons">
         <div className="section-card home-profile-card">
