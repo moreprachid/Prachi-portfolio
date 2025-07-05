@@ -25,7 +25,7 @@ function Resume() {
 
       <div style={{ marginTop: '2rem' }}>
         <motion.a
-          href="/resume.pdf"
+          href="/Prachi-portfolio/resume.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
